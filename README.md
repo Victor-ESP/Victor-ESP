@@ -6,7 +6,7 @@ Apasionado por la tecnología y con el objetivo de especializarme en **Cibersegu
 ---
 
 ## 🛠️ Tecnologías que estoy aprendiendo:
-* **Lenguajes:** Java, SQL.
+* **Lenguajes:** Java, SQL, GDScript.
 * **Marcado:** HTML5, CSS3, XML, XSD, JSON.
 * **Sistemas:** Administración de Windows y Linux (Bash).
 
