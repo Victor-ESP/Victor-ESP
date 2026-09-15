@@ -13,8 +13,8 @@ Apasionado por la tecnología y con el objetivo de especializarme en **Cibersegu
 ---
 
 ## 📈 Sobre mí:
-* 🎓 Actualmente cursando 1º de DAM en **Afundación**.
-* 🗣️ Estudiante de **Inglés B2.2** en la EOI de Coruña.
+* 🎓 Actualmente cursando 2º de DAM en **Afundación**.
+* 🗣️ Titulo de **Inglés B2.2** en la EOI de Coruña, actualmente cursando C1.
 * 🏀 Ex-árbitro de baloncesto y profesional con experiencia en el sector servicios.
 
 📫 **Contacto:** www.linkedin.com/in/victormosquerasoftware
